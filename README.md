@@ -23,10 +23,8 @@ How to Run the Project:
     1. Clone or save the repo to your local computer from GitHub. 
         - Open a terminal emulator such as Visual Studio Code
         - Save the project files to your local computer
-        - Alternativly clone the repo using the following command based on your authentication strategy:
-            HTTPS: git clone https://github.com/b1tn8/hm08-qa-us.git
-            SSH: git clone git@github.com/b1tn8/hm08-qa-us.git
-
+        - Alternativly clone the repo
+            
     2. Install NPM in the project folder:
         - First, update Chrome and Firefox 
         - Navigate to the terminal or terminal within Visual Studio
